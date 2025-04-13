@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Eu sou Kawan Henderson!</h1>
+<h1 align="left">Olá, Eu sou Kawan Henderson!👋</h1>
 
 ###
 
@@ -41,12 +41,6 @@
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KawanHenderson/KawanHenderson/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KawanHenderson/KawanHenderson/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KawanHenderson/KawanHenderson/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
